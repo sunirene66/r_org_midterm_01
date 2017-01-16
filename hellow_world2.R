@@ -1,1 +1,1 @@
-point "hellow world"
+print("hello world")
